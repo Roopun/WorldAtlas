@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Kolkata"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "98XXXXXX11"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "abc@gmail.com"
+    }
+  ]

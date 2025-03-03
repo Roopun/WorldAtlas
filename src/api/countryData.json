@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "United States",
+      "population": 331002651,
+      "capital": "Washington, D.C.",
+      "currency": "USD",
+      "places_to_visit": ["Grand Canyon,", "Statue of Liberty, ", "Yellowstone National Park"]
+    },
+    {
+      "id": 2,
+      "name": "Canada",
+      "population": 37742154,
+      "capital": "Ottawa",
+      "currency": "CAD",
+      "places_to_visit": ["Niagara Falls, ", "Banff National Park, ", "CN Tower"]
+    },
+    {
+      "id": 3,
+      "name": "United Kingdom",
+      "population": 67886011,
+      "capital": "London",
+      "currency": "GBP",
+      "places_to_visit": ["Big Ben, ", "Buckingham Palace, ", "Stonehenge"]
+    },
+    {
+      "id": 4,
+      "name": "France",
+      "population": 65273511,
+      "capital": "Paris",
+      "currency": "EUR",
+      "places_to_visit": ["Eiffel Tower, ", "Louvre Museum, ", "Palace of Versailles"]
+    },
+    {
+      "id": 5,
+      "name": "Germany",
+      "population": 83783942,
+      "capital": "Berlin",
+      "currency": "EUR",
+      "places_to_visit": ["Brandenburg Gate, ", "Neuschwanstein Castle, ", "Cologne Cathedral"]
+    },
+    {
+      "id": 6,
+      "name": "Australia",
+      "population": 25499884,
+      "capital": "Canberra",
+      "currency": "AUD",
+      "places_to_visit": ["Sydney Opera House, ", "Great Barrier Reef, ", "Uluru"]
+    },
+    {
+      "id": 7,
+      "name": "Japan",
+      "population": 126476461,
+      "capital": "Tokyo",
+      "currency": "JPY",
+      "places_to_visit": ["Mount Fuji, ", "Tokyo Tower, ", "Fushimi Inari Shrine"]
+    },
+    {
+      "id": 8,
+      "name": "India",
+      "population": 1380004385,
+      "capital": "New Delhi",
+      "currency": "INR",
+      "places_to_visit": ["Taj Mahal, ", "Jaipur City Palace, ", "Varanasi Ghats"]
+    },
+    {
+      "id": 9,
+      "name": "Brazil",
+      "population": 212559417,
+      "capital": "Brasília",
+      "currency": "BRL",
+      "places_to_visit": ["Christ the Redeemer, ", "Iguazu Falls, ", "Amazon Rainforest"]
+    },
+    {
+      "id": 10,
+      "name": "China",
+      "population": 1439323776,
+      "capital": "Beijing",
+      "currency": "CNY",
+      "places_to_visit": ["Great Wall of China, ", "Forbidden City, ", "Terracotta Army"]
+    },
+    {
+      "id": 11,
+      "name": "South Africa",
+      "population": 59308690,
+      "capital": "Pretoria",
+      "currency": "ZAR",
+      "places_to_visit": ["Table Mountain, ", "Kruger National Park, ", "Robben Island"]
+    },
+    {
+      "id": 12,
+      "name": "Italy",
+      "population": 60461826,
+      "capital": "Rome",
+      "currency": "EUR",
+      "places_to_visit": ["Colosseum, ", "Venice Canals, ", "Leaning Tower of Pisa"]
+    }
+  ]
+  
